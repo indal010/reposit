@@ -1,0 +1,7 @@
+#!/bin/bash
+# fhfhf
+echo here are some files;
+ls
+name='Hari'
+echo hi $name
+echo $0 $#
